@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1335607,
       "digest": "sha256:27307170ec40088af398e2926e842a09ecd24ededa87c06f5674976a88ff85cd",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-20T18:41:44Z",
       "updated_at": "2026-08-20T18:41:44Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-1.13.0-1.x86_64.rpm"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1103320,
       "digest": "sha256:ec30682e20b5311e8cf64b95de92f26bc8c23add5371ed762716771aea3fc161",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-20T18:41:44Z",
       "updated_at": "2026-08-20T18:41:45Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-aarch64-unknown-linux-gnu.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1647322,
       "digest": "sha256:d5812c6ab24db6c225954da6464481d1ac439c3eafceb1b803e2de70e9b84ace",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-08-20T18:41:45Z",
       "updated_at": "2026-08-20T18:41:45Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-pc-windows-msvc.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1270744,
       "digest": "sha256:5b31e7020f4c21f57fce6ac43a395302824bd496fea0feae3b6b356da32e0d73",
-      "download_count": 58,
+      "download_count": 60,
       "created_at": "2026-08-20T18:41:45Z",
       "updated_at": "2026-08-20T18:41:45Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-unknown-linux-gnu.tar.xz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:361795a4806f27ea235ddfd66253db7f5adf2eb61a4add7288a00e51c088e91d",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-20T18:41:45Z",
       "updated_at": "2026-08-20T18:41:45Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1347548,
       "digest": "sha256:1a148a63189d276739409aea1c9d68cca9c6231c1cdf30c0a9033c5106350a97",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-08-20T18:41:45Z",
       "updated_at": "2026-08-20T18:41:45Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-unknown-linux-musl.tar.xz"
