@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.13.0"
   latestRelease: "v1.13.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:57:14Z
+  collectedAt: 2026-09-10T16:36:30Z
 timeline:
   created: 2026-05-05
   lastCommit: 2026-08-20
@@ -83,7 +83,7 @@ total:
   commit: 238
 ---
 path: /home/runner/.x-repo/github.com/tlipinski/rura
-collectedAt: 2026-09-10T04:57:16Z
+collectedAt: 2026-09-10T16:36:31Z
 loc:
   Rust:
     code: 7807
