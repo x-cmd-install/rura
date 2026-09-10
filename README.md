@@ -12,6 +12,17 @@ Terminal UI for building shell pipelines
 x install rura
 ```
 
+## Code insight
+
+Total: **7,940** lines of code across **38** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 7,807 | 93 | 1,067 | 33 |
+| Toml | 69 | 9 | 9 | 2 |
+| Svg | 64 | 1 | 1 | 1 |
+| Markdown | 0 | 341 | 163 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/tlipinski/rura>
@@ -22,6 +33,25 @@ x install rura
 - **Latest**: `v1.13.0` (2026-08-20)
 - **Last commit**: 2026-08-20
 - **Assets in release**: 23
+
+## Popularity
+
+- **Stars**: 333 · **Forks**: 5 · **Open issues**: 8 · **Contributors**: 1
+
+## Totals (cumulative)
+
+- **Releases**: 16 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 8 · **Open issues**: 0 · **Commits**: 238
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 2 | 0 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-12 | 4 | 0 | 0 | 3 | 0 | 19 |
+| 90d | 2026-06-12 | 8 | 0 | 0 | 3 | 0 | 78 |
+| last180d | 2026-03-14 | 16 | 0 | 0 | 8 | 0 | 238 |
+| 360d | 2025-09-15 | 16 | 0 | 0 | 8 | 0 | 238 |
+| last720d | 2024-09-20 | 16 | 0 | 0 | 8 | 0 | 238 |
 
 ## Release assets
 
@@ -51,32 +81,14 @@ x install rura
 | [source.tar.gz](https://github.com/tlipinski/rura/releases/download/v1.13.0/source.tar.gz) | 86.2 KiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/tlipinski/rura/releases/download/v1.13.0/source.tar.gz.sha256) | 81 B | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 333 · **Forks**: 5 · **Open issues**: 8 · **Contributors**: 1
+Reported by **6** distros on [repology.org](https://repology.org/project/rura). **4** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 16 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 8 · **Open issues**: 0 · **Commits**: 238
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 0 | 0 | 0 | 0 | 3 |
-| 90d | 2026-06-12 | 8 | 0 | 0 | 3 | 0 | 78 |
-| 360d | 2025-09-15 | 16 | 0 | 0 | 8 | 0 | 238 |
-
-## Code size
-
-Total: **7,940** lines of code across **38** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 7,807 | 93 | 1,067 | 33 |
-| Toml | 69 | 9 | 9 | 2 |
-| Svg | 64 | 1 | 1 | 1 |
-| Markdown | 0 | 341 | 163 | 2 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.13.0` | ✅ latest |
+| Nix unstable | `1.13.0` | ✅ latest |
 
 ## Improve this data
 
@@ -87,4 +99,4 @@ Install metadata for rura lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:36:38Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:50:03Z._
