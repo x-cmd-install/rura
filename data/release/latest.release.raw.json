@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1347548,
       "digest": "sha256:1a148a63189d276739409aea1c9d68cca9c6231c1cdf30c0a9033c5106350a97",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-08-20T18:41:45Z",
       "updated_at": "2026-08-20T18:41:45Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-unknown-linux-musl.tar.xz"
