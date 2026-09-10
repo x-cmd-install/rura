@@ -4,7 +4,7 @@
 
 Terminal UI for building shell pipelines
 
-![rura](https://repo.x-cmd.io/rura.svg)
+![rura](https://repo.x-cmd.io/rura.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,34 @@ x install rura
 - **最新版本**: `v1.13.0` (2026-08-20)
 - **最近提交**: 2026-08-20
 - **Release 含资产**: 23 个
-- **发布时间**: 2026-08-20T18:41:46Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [dist-manifest.json](https://github.com/tlipinski/rura/releases/download/v1.13.0/dist-manifest.json) | 26.8 KiB | `other` |
+| [rura-1.13.0-1.aarch64.rpm](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-1.13.0-1.aarch64.rpm) | 1.2 MiB | `runtime/rpm/aarch64` |
+| [rura-1.13.0-1.x86_64.rpm](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-1.13.0-1.x86_64.rpm) | 1.3 MiB | `runtime/rpm/x86_64` |
+| [rura-aarch64-apple-darwin.tar.xz](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-aarch64-apple-darwin.tar.xz) | 1.0 MiB | `native/darwin/arm64` |
+| [rura-aarch64-apple-darwin.tar.xz.sha256](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-aarch64-apple-darwin.tar.xz.sha256) | 100 B | `native/darwin/arm64` |
+| [rura-aarch64-pc-windows-msvc.zip](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-aarch64-pc-windows-msvc.zip) | 1.6 MiB | `native/win/arm64` |
+| [rura-aarch64-pc-windows-msvc.zip.sha256](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-aarch64-pc-windows-msvc.zip.sha256) | 100 B | `native/win/arm64` |
+| [rura-aarch64-unknown-linux-gnu.tar.xz](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-aarch64-unknown-linux-gnu.tar.xz) | 1.1 MiB | `native/linux/arm64/glibc` |
+| [rura-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-aarch64-unknown-linux-gnu.tar.xz.sha256) | 105 B | `native/linux/arm64/glibc` |
+| [rura-installer.sh](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-installer.sh) | 55.2 KiB | `other` |
+| [rura-x86_64-apple-darwin.tar.xz](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-apple-darwin.tar.xz) | 1.2 MiB | `native/darwin/x64` |
+| [rura-x86_64-apple-darwin.tar.xz.sha256](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-apple-darwin.tar.xz.sha256) | 99 B | `native/darwin/x64` |
+| [rura-x86_64-pc-windows-msvc.zip](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-pc-windows-msvc.zip) | 1.6 MiB | `native/win/x64` |
+| [rura-x86_64-pc-windows-msvc.zip.sha256](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-pc-windows-msvc.zip.sha256) | 99 B | `native/win/x64` |
+| [rura-x86_64-unknown-linux-gnu.tar.xz](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-unknown-linux-gnu.tar.xz) | 1.2 MiB | `native/linux/x64/glibc` |
+| [rura-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-unknown-linux-gnu.tar.xz.sha256) | 104 B | `native/linux/x64/glibc` |
+| [rura-x86_64-unknown-linux-musl.tar.xz](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-unknown-linux-musl.tar.xz) | 1.3 MiB | `native/linux/x64/musl` |
+| [rura-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-unknown-linux-musl.tar.xz.sha256) | 105 B | `native/linux/x64/musl` |
+| [rura_1.13.0-1_amd64.deb](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura_1.13.0-1_amd64.deb) | 1.2 MiB | `runtime/deb/amd64` |
+| [rura_1.13.0-1_arm64.deb](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura_1.13.0-1_arm64.deb) | 1.0 MiB | `runtime/deb/arm64` |
+| [sha256.sum](https://github.com/tlipinski/rura/releases/download/v1.13.0/sha256.sum) | 786 B | `other` |
+| [source.tar.gz](https://github.com/tlipinski/rura/releases/download/v1.13.0/source.tar.gz) | 86.2 KiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/tlipinski/rura/releases/download/v1.13.0/source.tar.gz.sha256) | 81 B | `other` |
 
 ## 流行度
 
@@ -60,4 +87,4 @@ rura 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:57:21Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:36:38Z._
