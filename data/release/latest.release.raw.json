@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 27470,
       "digest": "sha256:6555ed2996bd6838b7c07606aec82095291e413db373ce48203c34055a9085cf",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-20T18:41:44Z",
       "updated_at": "2026-08-20T18:41:44Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.13.0/dist-manifest.json"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1096640,
       "digest": "sha256:9579163aa5684717c269b1b7dc9e90c958dd81a9a8f295a1694c0c3490476d70",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-08-20T18:41:44Z",
       "updated_at": "2026-08-20T18:41:44Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-aarch64-apple-darwin.tar.xz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": "sha256:7eaac6c14f54393e9ecc0254901ba89ce42ec58d1b7ae98afc000157bf190268",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-08-20T18:41:44Z",
       "updated_at": "2026-08-20T18:41:44Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-aarch64-pc-windows-msvc.zip.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 56526,
       "digest": "sha256:480764b4afb30415168c4f54cc6096fa0c24f98bc24d700a888a79cb47724f9e",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-20T18:41:44Z",
       "updated_at": "2026-08-20T18:41:45Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-installer.sh"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1218308,
       "digest": "sha256:dbda9cee3123f083387749338b923acb992f011cfb61614e903d215f04a93e06",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-20T18:41:45Z",
       "updated_at": "2026-08-20T18:41:45Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-apple-darwin.tar.xz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 99,
       "digest": "sha256:319a5d6ec89015c5601318fd850f0468fd4fcccd7835c39e43616391a5bf415e",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-08-20T18:41:45Z",
       "updated_at": "2026-08-20T18:41:45Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-pc-windows-msvc.zip.sha256"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1347548,
       "digest": "sha256:1a148a63189d276739409aea1c9d68cca9c6231c1cdf30c0a9033c5106350a97",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-08-20T18:41:45Z",
       "updated_at": "2026-08-20T18:41:45Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-unknown-linux-musl.tar.xz"
