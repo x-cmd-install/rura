@@ -4,7 +4,7 @@
 
 Terminal UI for building shell pipelines
 
-[![x-cmd/install — rura Code Quality Monitoring Repo Card](https://repo.x-cmd.io/rura.svg?lang=zh)](https://x-cmd.com/install/rura)
+[![x-cmd/install — rura Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/rura.svg?lang=zh)](https://x-cmd.com/install/rura)
 
 ## 安装
 
@@ -46,12 +46,12 @@ x install rura
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 3 | 0 | 0 | 3 | 0 | 9 |
-| 90d | 2026-06-24 | 7 | 0 | 0 | 3 | 0 | 48 |
-| last180d | 2026-03-26 | 16 | 0 | 0 | 8 | 0 | 236 |
-| 360d | 2025-09-27 | 16 | 0 | 0 | 8 | 0 | 238 |
-| last720d | 2024-10-02 | 16 | 0 | 0 | 8 | 0 | 238 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 3 | 0 | 0 | 3 | 0 | 9 |
+| 90d | 2026-06-25 | 7 | 0 | 0 | 3 | 0 | 48 |
+| last180d | 2026-03-27 | 16 | 0 | 0 | 8 | 0 | 236 |
+| 360d | 2025-09-28 | 16 | 0 | 0 | 8 | 0 | 238 |
+| last720d | 2024-10-03 | 16 | 0 | 0 | 8 | 0 | 238 |
 
 ## Release 资产
 
@@ -90,4 +90,4 @@ rura 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:27:44Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:15:52Z._
