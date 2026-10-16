@@ -14,11 +14,11 @@ x install rura
 
 ## Code insight
 
-Total: **8,161** lines of code across **39** files in the top 5 languages.
+Total: **8,213** lines of code across **39** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 8,026 | 100 | 1,111 | 34 |
+| Rust | 8,078 | 100 | 1,116 | 34 |
 | Toml | 71 | 9 | 10 | 2 |
 | Svg | 64 | 1 | 1 | 1 |
 | Markdown | 0 | 342 | 163 | 2 |
@@ -31,7 +31,7 @@ Total: **8,161** lines of code across **39** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.13.0` (2026-08-20)
-- **Last commit**: 2026-09-29
+- **Last commit**: 2026-10-15
 - **Assets in release**: 23
 
 ## Popularity
@@ -40,18 +40,18 @@ Total: **8,161** lines of code across **39** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 8 · **Open issues**: 0 · **Commits**: 239
+- **Releases**: 16 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 8 · **Open issues**: 0 · **Commits**: 240
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-16 | 1 | 0 | 0 | 0 | 0 | 4 |
-| 90d | 2026-07-17 | 4 | 0 | 0 | 3 | 0 | 15 |
-| last180d | 2026-04-18 | 16 | 0 | 0 | 8 | 0 | 237 |
-| 360d | 2025-10-20 | 16 | 0 | 0 | 8 | 0 | 239 |
-| last720d | 2024-10-25 | 16 | 0 | 0 | 8 | 0 | 239 |
+| 30d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last60d | 2026-08-17 | 1 | 0 | 0 | 0 | 0 | 5 |
+| 90d | 2026-07-18 | 4 | 0 | 0 | 3 | 0 | 16 |
+| last180d | 2026-04-19 | 16 | 0 | 0 | 8 | 0 | 238 |
+| 360d | 2025-10-21 | 16 | 0 | 0 | 8 | 0 | 240 |
+| last720d | 2024-10-26 | 16 | 0 | 0 | 8 | 0 | 240 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for rura lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:50:23Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:47:43Z._
