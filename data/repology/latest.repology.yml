@@ -2,8 +2,8 @@
   srcname: rura-bin
   binname: rura-bin
   visiblename: rura-bin
-  version: 1.13.0
-  origversion: 1.13.0-1
+  version: 1.14.0
+  origversion: 1.14.0-1
   status: newest
   summary: Interactive TUI pipeline editor built for rapid iteration
   maintainers:
@@ -28,7 +28,7 @@
   visiblename: shells/rura
   version: 1.13.0
   origversion: 1.13.0_2
-  status: newest
+  status: outdated
   summary: Interactive TUI pipeline editor built for rapid iteration
   maintainers:
     - olgeni@freebsd.org
@@ -37,7 +37,7 @@
 - repo: homebrew
   srcname: rura
   visiblename: rura
-  version: 1.13.0
+  version: 1.14.0
   origversion: null
   status: newest
   summary: Interactive TUI scratchpad for building shell pipelines
@@ -57,7 +57,7 @@
   visiblename: rura
   version: 1.13.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Interactive TUI scratchpad for building shell pipelines
   maintainers:
     - fb@franta.us
