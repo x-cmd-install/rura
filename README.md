@@ -14,14 +14,15 @@ x install rura
 
 ## Code insight
 
-Total: **8,213** lines of code across **39** files in the top 5 languages.
+Total: **8,520** lines of code across **42** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 8,078 | 100 | 1,116 | 34 |
-| Toml | 71 | 9 | 10 | 2 |
+| Yaml | 305 | 84 | 18 | 3 |
+| Toml | 73 | 9 | 11 | 2 |
 | Svg | 64 | 1 | 1 | 1 |
-| Markdown | 0 | 342 | 163 | 2 |
+| Markdown | 0 | 346 | 166 | 2 |
 
 ## Source
 
@@ -30,8 +31,8 @@ Total: **8,213** lines of code across **39** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.13.0` (2026-08-20)
-- **Last commit**: 2026-10-15
+- **Latest**: `v1.14.0` (2026-11-07)
+- **Last commit**: 2026-11-07
 - **Assets in release**: 23
 
 ## Popularity
@@ -40,55 +41,55 @@ Total: **8,213** lines of code across **39** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 8 · **Open issues**: 1 · **Commits**: 240
+- **Releases**: 17 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 8 · **Open issues**: 1 · **Commits**: 244
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 1 | 1 |
-| last60d | 2026-09-08 | 0 | 0 | 0 | 0 | 1 | 2 |
-| 90d | 2026-08-09 | 2 | 0 | 0 | 0 | 1 | 8 |
-| last180d | 2026-05-11 | 16 | 0 | 0 | 8 | 1 | 198 |
-| 360d | 2025-11-12 | 16 | 0 | 0 | 8 | 1 | 240 |
-| last720d | 2024-11-17 | 16 | 0 | 0 | 8 | 1 | 240 |
+| 30d | 2026-10-09 | 1 | 0 | 0 | 0 | 1 | 4 |
+| last60d | 2026-09-09 | 1 | 0 | 0 | 0 | 1 | 6 |
+| 90d | 2026-08-10 | 3 | 0 | 0 | 0 | 1 | 9 |
+| last180d | 2026-05-12 | 16 | 0 | 0 | 7 | 1 | 168 |
+| 360d | 2025-11-13 | 17 | 0 | 0 | 8 | 1 | 244 |
+| last720d | 2024-11-18 | 17 | 0 | 0 | 8 | 1 | 244 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [dist-manifest.json](https://github.com/tlipinski/rura/releases/download/v1.13.0/dist-manifest.json) | 26.8 KiB | `other` |
-| [rura-1.13.0-1.aarch64.rpm](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-1.13.0-1.aarch64.rpm) | 1.2 MiB | `runtime/rpm/aarch64` |
-| [rura-1.13.0-1.x86_64.rpm](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-1.13.0-1.x86_64.rpm) | 1.3 MiB | `runtime/rpm/x86_64` |
-| [rura-aarch64-apple-darwin.tar.xz](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-aarch64-apple-darwin.tar.xz) | 1.0 MiB | `native/darwin/arm64` |
-| [rura-aarch64-apple-darwin.tar.xz.sha256](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-aarch64-apple-darwin.tar.xz.sha256) | 100 B | `native/darwin/arm64` |
-| [rura-aarch64-pc-windows-msvc.zip](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-aarch64-pc-windows-msvc.zip) | 1.6 MiB | `native/win/arm64` |
-| [rura-aarch64-pc-windows-msvc.zip.sha256](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-aarch64-pc-windows-msvc.zip.sha256) | 100 B | `native/win/arm64` |
-| [rura-aarch64-unknown-linux-gnu.tar.xz](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-aarch64-unknown-linux-gnu.tar.xz) | 1.1 MiB | `native/linux/arm64/glibc` |
-| [rura-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-aarch64-unknown-linux-gnu.tar.xz.sha256) | 105 B | `native/linux/arm64/glibc` |
-| [rura-installer.sh](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-installer.sh) | 55.2 KiB | `other` |
-| [rura-x86_64-apple-darwin.tar.xz](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-apple-darwin.tar.xz) | 1.2 MiB | `native/darwin/x64` |
-| [rura-x86_64-apple-darwin.tar.xz.sha256](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-apple-darwin.tar.xz.sha256) | 99 B | `native/darwin/x64` |
-| [rura-x86_64-pc-windows-msvc.zip](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-pc-windows-msvc.zip) | 1.6 MiB | `native/win/x64` |
-| [rura-x86_64-pc-windows-msvc.zip.sha256](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-pc-windows-msvc.zip.sha256) | 99 B | `native/win/x64` |
-| [rura-x86_64-unknown-linux-gnu.tar.xz](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-unknown-linux-gnu.tar.xz) | 1.2 MiB | `native/linux/x64/glibc` |
-| [rura-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-unknown-linux-gnu.tar.xz.sha256) | 104 B | `native/linux/x64/glibc` |
-| [rura-x86_64-unknown-linux-musl.tar.xz](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-unknown-linux-musl.tar.xz) | 1.3 MiB | `native/linux/x64/musl` |
-| [rura-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura-x86_64-unknown-linux-musl.tar.xz.sha256) | 105 B | `native/linux/x64/musl` |
-| [rura_1.13.0-1_amd64.deb](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura_1.13.0-1_amd64.deb) | 1.2 MiB | `runtime/deb/amd64` |
-| [rura_1.13.0-1_arm64.deb](https://github.com/tlipinski/rura/releases/download/v1.13.0/rura_1.13.0-1_arm64.deb) | 1.0 MiB | `runtime/deb/arm64` |
-| [sha256.sum](https://github.com/tlipinski/rura/releases/download/v1.13.0/sha256.sum) | 786 B | `other` |
-| [source.tar.gz](https://github.com/tlipinski/rura/releases/download/v1.13.0/source.tar.gz) | 86.2 KiB | `native/unknown` |
-| [source.tar.gz.sha256](https://github.com/tlipinski/rura/releases/download/v1.13.0/source.tar.gz.sha256) | 81 B | `other` |
+| [dist-manifest.json](https://github.com/tlipinski/rura/releases/download/v1.14.0/dist-manifest.json) | 27.0 KiB | `other` |
+| [rura-1.14.0-1.aarch64.rpm](https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-1.14.0-1.aarch64.rpm) | 1.3 MiB | `runtime/rpm/aarch64` |
+| [rura-1.14.0-1.x86_64.rpm](https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-1.14.0-1.x86_64.rpm) | 1.4 MiB | `runtime/rpm/x86_64` |
+| [rura-aarch64-apple-darwin.tar.xz](https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-aarch64-apple-darwin.tar.xz) | 1.1 MiB | `native/darwin/arm64` |
+| [rura-aarch64-apple-darwin.tar.xz.sha256](https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-aarch64-apple-darwin.tar.xz.sha256) | 100 B | `native/darwin/arm64` |
+| [rura-aarch64-pc-windows-msvc.zip](https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-aarch64-pc-windows-msvc.zip) | 1.7 MiB | `native/win/arm64` |
+| [rura-aarch64-pc-windows-msvc.zip.sha256](https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-aarch64-pc-windows-msvc.zip.sha256) | 100 B | `native/win/arm64` |
+| [rura-aarch64-unknown-linux-gnu.tar.xz](https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-aarch64-unknown-linux-gnu.tar.xz) | 1.1 MiB | `native/linux/arm64/glibc` |
+| [rura-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-aarch64-unknown-linux-gnu.tar.xz.sha256) | 105 B | `native/linux/arm64/glibc` |
+| [rura-installer.sh](https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-installer.sh) | 61.3 KiB | `other` |
+| [rura-x86_64-apple-darwin.tar.xz](https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-x86_64-apple-darwin.tar.xz) | 1.3 MiB | `native/darwin/x64` |
+| [rura-x86_64-apple-darwin.tar.xz.sha256](https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-x86_64-apple-darwin.tar.xz.sha256) | 99 B | `native/darwin/x64` |
+| [rura-x86_64-pc-windows-msvc.zip](https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-x86_64-pc-windows-msvc.zip) | 1.7 MiB | `native/win/x64` |
+| [rura-x86_64-pc-windows-msvc.zip.sha256](https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-x86_64-pc-windows-msvc.zip.sha256) | 99 B | `native/win/x64` |
+| [rura-x86_64-unknown-linux-gnu.tar.xz](https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-x86_64-unknown-linux-gnu.tar.xz) | 1.3 MiB | `native/linux/x64/glibc` |
+| [rura-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-x86_64-unknown-linux-gnu.tar.xz.sha256) | 104 B | `native/linux/x64/glibc` |
+| [rura-x86_64-unknown-linux-musl.tar.xz](https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-x86_64-unknown-linux-musl.tar.xz) | 1.4 MiB | `native/linux/x64/musl` |
+| [rura-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-x86_64-unknown-linux-musl.tar.xz.sha256) | 105 B | `native/linux/x64/musl` |
+| [rura_1.14.0-1_amd64.deb](https://github.com/tlipinski/rura/releases/download/v1.14.0/rura_1.14.0-1_amd64.deb) | 1.3 MiB | `runtime/deb/amd64` |
+| [rura_1.14.0-1_arm64.deb](https://github.com/tlipinski/rura/releases/download/v1.14.0/rura_1.14.0-1_arm64.deb) | 1.1 MiB | `runtime/deb/arm64` |
+| [sha256.sum](https://github.com/tlipinski/rura/releases/download/v1.14.0/sha256.sum) | 786 B | `other` |
+| [source.tar.gz](https://github.com/tlipinski/rura/releases/download/v1.14.0/source.tar.gz) | 88.7 KiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/tlipinski/rura/releases/download/v1.14.0/source.tar.gz.sha256) | 81 B | `other` |
 
 ## Distribution status
 
-Reported by **6** distros on [repology.org](https://repology.org/project/rura). **4** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+Reported by **6** distros on [repology.org](https://repology.org/project/rura). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `1.13.0` | ✅ latest |
-| Nix unstable | `1.13.0` | ✅ latest |
+| Homebrew | `1.14.0` | ✅ latest |
+| Nix unstable | `1.13.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -99,4 +100,4 @@ Install metadata for rura lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:31:04Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:16:27Z._
