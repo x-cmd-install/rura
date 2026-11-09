@@ -14,8 +14,8 @@
   srcname: rura-git
   binname: rura-git
   visiblename: rura-git
-  version: v1.13.0.r0.gfd79ef3
-  origversion: v1.13.0.r0.gfd79ef3-1
+  version: v1.14.0.r0.gfb9a080
+  origversion: v1.14.0.r0.gfb9a080-1
   status: rolling
   summary: Interactive TUI pipeline editor built for rapid iteration
   maintainers:
