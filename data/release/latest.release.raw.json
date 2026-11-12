@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 27619,
       "digest": "sha256:1fa55336325507d16335e41d9e6e50208a2dc0d6c79c34fe29e3eb478d7a66d5",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-07T11:44:01Z",
       "updated_at": "2026-11-07T11:44:01Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/dist-manifest.json"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1181848,
       "digest": "sha256:9820f3c1de261ed21f54f473b2c82feca54e4d6af345accc137978fa57308a0b",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-07T11:44:01Z",
       "updated_at": "2026-11-07T11:44:01Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-aarch64-apple-darwin.tar.xz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1378248,
       "digest": "sha256:281d30709313c1260e398c231f3b8c3083f091b88b4965694a569086ee733106",
-      "download_count": 26,
+      "download_count": 29,
       "created_at": "2026-11-07T11:44:02Z",
       "updated_at": "2026-11-07T11:44:03Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-x86_64-unknown-linux-gnu.tar.xz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1456888,
       "digest": "sha256:9782d6d779ca39bfc275afbbca4cb8b76a20ade7e4775646bb7589d8fb7753a3",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-11-07T11:44:02Z",
       "updated_at": "2026-11-07T11:44:03Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-x86_64-unknown-linux-musl.tar.xz"
