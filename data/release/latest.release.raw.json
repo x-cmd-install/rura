@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1367763,
       "digest": "sha256:3f356aa604b8b6e542bbd346b03152ffb8dbdcf8386ad9ca9971c229ac475d5d",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-07T11:44:01Z",
       "updated_at": "2026-11-07T11:44:01Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-1.14.0-1.aarch64.rpm"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1469293,
       "digest": "sha256:ce98c89f432418bc3bea4527770aa978fec7b369c2a0ace7cb4c27faa27af2cb",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-07T11:44:01Z",
       "updated_at": "2026-11-07T11:44:01Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-1.14.0-1.x86_64.rpm"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1181848,
       "digest": "sha256:9820f3c1de261ed21f54f473b2c82feca54e4d6af345accc137978fa57308a0b",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-07T11:44:01Z",
       "updated_at": "2026-11-07T11:44:01Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-aarch64-apple-darwin.tar.xz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": "sha256:1f9f02a3d0e9df8d14e08880d8cc7f7fa1d669beb93288d78d769e7d23566b5c",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-07T11:44:01Z",
       "updated_at": "2026-11-07T11:44:01Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-aarch64-apple-darwin.tar.xz.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1776628,
       "digest": "sha256:44d38c3ef7cef6713e716d531c71b7cd95f7c87c543925f177241ffe868487b1",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-07T11:44:01Z",
       "updated_at": "2026-11-07T11:44:02Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-aarch64-pc-windows-msvc.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": "sha256:e89eb8a4208080e4f7fc3538acaa5679e291d386d5049ac00168d59352aa3868",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-07T11:44:01Z",
       "updated_at": "2026-11-07T11:44:01Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-aarch64-pc-windows-msvc.zip.sha256"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1190128,
       "digest": "sha256:bd750563f3032d2ed8d25a9159917d79390881b87d653d21f4ff72b3228ba779",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-07T11:44:01Z",
       "updated_at": "2026-11-07T11:44:02Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-aarch64-unknown-linux-gnu.tar.xz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:e1bbc5612ba9345553e5940613dd1c8cba4736f37a2b052fb83d7d33bca9b90b",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-07T11:44:02Z",
       "updated_at": "2026-11-07T11:44:02Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-aarch64-unknown-linux-gnu.tar.xz.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1316876,
       "digest": "sha256:6f79eb86c8dce14df2eb756e3b878a477f688779c44251cfe975d7ef3e3bdb3b",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-07T11:44:02Z",
       "updated_at": "2026-11-07T11:44:02Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-x86_64-apple-darwin.tar.xz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 99,
       "digest": "sha256:95b5dd6d96021d771c7881c356f6fbaae5ece5b46f1bd6d1c12f1da7c085e77e",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-07T11:44:02Z",
       "updated_at": "2026-11-07T11:44:02Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-x86_64-apple-darwin.tar.xz.sha256"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1791354,
       "digest": "sha256:8c36715c2a81910490760356d994dfee70e54741aa58f032678d9b652e864ddc",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-11-07T11:44:02Z",
       "updated_at": "2026-11-07T11:44:02Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-x86_64-pc-windows-msvc.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 99,
       "digest": "sha256:022e15c35684515aebd28c561922c9afa93494d75139fa51bfec9f5dce76d558",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-07T11:44:02Z",
       "updated_at": "2026-11-07T11:44:02Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-x86_64-pc-windows-msvc.zip.sha256"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:c885dfd29c6781d5562dda73f9953ac811ece3e754e1a7cafcb0f9267158e4f4",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-07T11:44:02Z",
       "updated_at": "2026-11-07T11:44:03Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1456888,
       "digest": "sha256:9782d6d779ca39bfc275afbbca4cb8b76a20ade7e4775646bb7589d8fb7753a3",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-11-07T11:44:02Z",
       "updated_at": "2026-11-07T11:44:03Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-x86_64-unknown-linux-musl.tar.xz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:9dfca9ae91c0aa0c0472f852b7ff33b76d4803bf7ae29734cff48e0e690220cf",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-07T11:44:03Z",
       "updated_at": "2026-11-07T11:44:03Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/rura-x86_64-unknown-linux-musl.tar.xz.sha256"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 1351640,
       "digest": "sha256:8bd164a56baeaed55233c5675bd85eee4a74b7741d137f5e6a6359bae1a9f8e7",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-07T11:44:03Z",
       "updated_at": "2026-11-07T11:44:03Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/rura_1.14.0-1_amd64.deb"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 1161808,
       "digest": "sha256:e2d57c3740e020e4ada268b7572e5b9cc5e008188926fdd3267dae6870b82173",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-07T11:44:03Z",
       "updated_at": "2026-11-07T11:44:03Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/rura_1.14.0-1_arm64.deb"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 786,
       "digest": "sha256:02b2990a0d704953f0729d54ab3737d9833409774c0e4c1099c33e2703f2a2f8",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-07T11:44:03Z",
       "updated_at": "2026-11-07T11:44:03Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/sha256.sum"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:e8c1464fa9a2d67cecf8ece167d83808538a91fdb51c886484c856bab1f454da",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-07T11:44:03Z",
       "updated_at": "2026-11-07T11:44:03Z",
       "browser_download_url": "https://github.com/tlipinski/rura/releases/download/v1.14.0/source.tar.gz.sha256"
