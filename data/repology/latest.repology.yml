@@ -55,9 +55,9 @@
 - repo: nix_unstable
   srcname: rura
   visiblename: rura
-  version: 1.13.0
+  version: 1.14.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Interactive TUI scratchpad for building shell pipelines
   maintainers:
     - fb@franta.us
