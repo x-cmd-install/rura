@@ -26,9 +26,9 @@
   srcname: shells/rura
   binname: rura
   visiblename: shells/rura
-  version: 1.13.0
-  origversion: 1.13.0_2
-  status: outdated
+  version: 1.14.0
+  origversion: null
+  status: newest
   summary: Interactive TUI pipeline editor built for rapid iteration
   maintainers:
     - olgeni@freebsd.org
